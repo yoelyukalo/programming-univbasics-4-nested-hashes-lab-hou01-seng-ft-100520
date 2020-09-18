@@ -105,7 +105,6 @@ def changing_alan
         :languages => ["C"]
       }
     }
-return changing_alan
 end
 
 def adding_to_dennis
